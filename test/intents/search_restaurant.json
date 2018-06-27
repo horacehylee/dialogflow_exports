@@ -1,0 +1,38 @@
+{
+  "id": "c19d5da2-d936-4d0b-a4b0-08e68e0f2710",
+  "name": "search_restaurant",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "find_restaurant",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dd2da815-2c96-4276-a948-5d755411175e",
+          "required": true,
+          "dataType": "@location",
+          "name": "location",
+          "value": "$location",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There is a restaurant at $location"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530057966,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Hong Kong",
+    "synonyms": [
+      "Hong Kong"
+    ]
+  },
+  {
+    "value": "nearby",
+    "synonyms": [
+      "nearby",
+      "here",
+      "close"
+    ]
+  },
+  {
+    "value": "China",
+    "synonyms": [
+      "China"
+    ]
+  }
+]

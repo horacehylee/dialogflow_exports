@@ -1,0 +1,84 @@
+[
+  {
+    "id": "d399c6c5-c4a4-42da-a643-0e77a2d567ba",
+    "data": [
+      {
+        "text": "here",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e742762-54f4-4906-aad2-50aa01fbb30a",
+    "data": [
+      {
+        "text": "Hong Kong",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7f8b6fd8-f81a-472c-bfc2-4d799e6d1698",
+    "data": [
+      {
+        "text": "Where to eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1530057966
+  },
+  {
+    "id": "06eb10ef-263e-4b49-989e-8d8ce42cfede",
+    "data": [
+      {
+        "text": "Any restaurant ",
+        "userDefined": false
+      },
+      {
+        "text": "nearby",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530057966
+  },
+  {
+    "id": "4130853c-737f-49d1-a83a-0bb508b16f4f",
+    "data": [
+      {
+        "text": "Where is the closest restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530057966
+  },
+  {
+    "id": "bf40fd4f-ea24-4c4f-9afa-af95cdcb1e1d",
+    "data": [
+      {
+        "text": "Find me a restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530057966
+  }
+]
